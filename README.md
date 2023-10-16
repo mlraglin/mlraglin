@@ -1,11 +1,5 @@
 ## Hi, I'm Melina!
 
-#### 📚 I'm a recent graduate of The Ohio State University with a degree in data analytics.
-#### 📊 I'm searching for full-time employment in data analytics, science, and strategy for the fall of 2023. 
-#### 👥 I'm passionate about focusing insight development around customers and users!
-#### 💻 I use GitHub for personal projects, software development, sociological research projects, and data science and analytics.
-#### 📫 My email is raglin.11@buckeyemail.osu.edu!
-
 <!--
 **mlraglin/mlraglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
