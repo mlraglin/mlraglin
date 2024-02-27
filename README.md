@@ -1,6 +1,6 @@
 ## Hi, I'm Melina!
 
-- 😇 I'm a data analyst at Chartmetric based in NYC.
+😇 I'm a data analyst at Chartmetric based in NYC.
 <!--
 **mlraglin/mlraglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
