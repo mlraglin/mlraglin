@@ -1,7 +1,7 @@
 ## Hi, I'm Melina!
 
 😇 I'm a data analyst at Chartmetric based in NYC 🏙🍎  
-📚 I'm an alum of The Ohio State University, where I graduated with a degree in Data Analytics in May of 2023 🙆‍♀️🔴  
+📚 I'm an alum of The Ohio State University, from which I graduated with a degree in Data Analytics in May of 2023 🙆‍♀️🔴  
 🧠 I'm passionate about data analytics, engineering, science, and visualization 🤓📊  
 <!--
 **mlraglin/mlraglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
