@@ -1,6 +1,6 @@
 ## Hi, I'm Melina!
 
-😇 I'm a data analyst at Chartmetric based in NYC 🏙🍎  
+😇 I'm a data analyst at The Orchard based in NYC 🏙🍎  
 📚 I graduated from The Ohio State University with a degree in Data Analytics in May of 2023 🙆‍♀️🔴  
 🧠 I'm passionate about data analytics, engineering, science, and visualization 🤓📊  
 <!--
